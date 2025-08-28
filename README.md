@@ -1,7 +1,7 @@
 # Logline Security
 
-**Live Demo URL:** [https://jolly-field-07b6e4f1e.azurestaticapps.net/](https://jolly-field-07b6e4f1e.azurestaticapps.net/)
-
+**Live Demo URL:** [https://jolly-field-07b6e4f1e.azurestaticapps.net/](https://jolly-field-07b6e4f1e.2.azurestaticapps.net/
+)
 ---
 
 ## About The Project
