@@ -8,7 +8,7 @@
 
 Logline Security is a personalized cybersecurity news aggregator, designed as a Minimum Viable Product (MVP) to serve security professionals, students, and enthusiasts.
 
-Its core value is to save users time by consolidating news from trusted sources into a single, intelligent platform, providing a customized and relevant threat intelligence feed.
+Its core value is to save users time by consolidating news from trusted sources into a single, intelligent platform, providing a customized Cybersecurity news feed.
 
 *Currently optimized for Desktop, mobile access will still work but will have some minor visual bugs.*
 
@@ -35,7 +35,7 @@ This project is a full-stack application built with a modern, cloud-native archi
 
 * **API Proxy:** Node.js with Express
 * **Hosting:** Render Free Tier
-    * *Note: After 15 minutes of inactivity the server will sleep. The next request will have to "wake up" the server, causing a loading time of 1 to 2 minutes for the first request*
+    * *Note: After 15 minutes of inactivity the server will sleep. The next request will have to "wake up" the server, causing a loading time of up to 1 min*
 * **Serverless Functions:** Azure Functions (C#)
 * **Database:** Azure Cosmos DB (NoSQL)
 * **AI & Machine Learning:** Azure OpenAI Service
