@@ -22,7 +22,7 @@ Its core value is to save users time by consolidating news from trusted sources 
 
 ## Tech Stack
 
-This project is a full-stack application built with a modern, cloud-native architecture on Microsoft Azure.
+This project is a full-stack web application built with a modern, cloud-native architecture on Microsoft Azure.
 
 ### Front-End (Client)
 
