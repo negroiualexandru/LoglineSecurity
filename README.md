@@ -3,7 +3,7 @@
 **Live Demo URL:** https://jolly-field-07b6e4f1e.2.azurestaticapps.net/
  * *Due to a limitation of my free tier of the server hosting platform I am using, there might be a up to 1 min "wake up" time for my server on your first request.*
 ## 🎥 Demo Video
-https://youtu.be/YOUR_VIDEO_ID
+[https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/l7jPnBRpH2E)
 ---
 
 ## About The Project
