@@ -5,8 +5,9 @@
 ## 🎥 Demo Video
 https://youtu.be/l7jPnBRpH2E
 
- * *A limitation of the screen recording doesnt record the dropdown properly so I have attached a photo below*
-<img width="1400" height="579" alt="image" src="https://github.com/user-attachments/assets/c3c64003-85b4-430e-94e3-cd8e59c79bb9" />
+*Dropdown menu behavior (not captured correctly in screen recording)*
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/c3c64003-85b4-430e-94e3-cd8e59c79bb9" />
 
 ---
 
