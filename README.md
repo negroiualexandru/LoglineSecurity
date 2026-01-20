@@ -4,6 +4,10 @@
  * *Due to a limitation of my free tier of the server hosting platform I am using, there might be a up to 1 min "wake up" time for my server on your first request.*
 ## 🎥 Demo Video
 https://youtu.be/l7jPnBRpH2E
+
+ * *A limitation of the screen recording doesnt record the dropdown properly so I have attached a photo below*
+<img width="1400" height="579" alt="image" src="https://github.com/user-attachments/assets/c3c64003-85b4-430e-94e3-cd8e59c79bb9" />
+
 ---
 
 ## About The Project
