@@ -53,5 +53,6 @@ This project is a full-stack web application built with a modern, cloud-native a
 
 ## Original Design
 * The original design (much different from final design) was created on Figma and is under this link: https://www.figma.com/proto/Vo0USUrtEzXWpz2gfd97fR/Project-Design?node-id=0-1&t=djtktjuiqusYH7wo-1
-* Please note that not all button will work on every page of this design demo, to see which buttons are active, click somewhere on the demo and the buttons will highlight
+* Please note that not all button will work on every page of this design demo, to see which buttons are active, click somewhere on the demo and the buttons will 
+---
 *The source code for this project is in a private repository.*
