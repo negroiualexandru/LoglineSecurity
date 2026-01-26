@@ -13,7 +13,7 @@ https://youtu.be/l7jPnBRpH2E
 
 ## About The Project
 
-Logline Security is a personalized cybersecurity news aggregator, designed as a Minimum Viable Product (MVP) to serve security professionals, students, and enthusiasts.
+Logline Security is a personalized cybersecurity news aggregator, to serve security professionals, students, and enthusiasts.
 
 Its core value is to save users time by consolidating news from trusted sources into a single, intelligent platform, providing a customized Cybersecurity news feed.
 
