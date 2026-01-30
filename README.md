@@ -1,5 +1,5 @@
 # Logline Security
-### *AI-Powered Threat Intelligence Aggregator*
+### *AI-Powered Cybersecurity News Aggregator*
 
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![OpenAI](https://img.shields.io/badge/Azure_OpenAI-00A4EF?style=flat&logo=openai&logoColor=white)](https://azure.microsoft.com/en-us/products/ai-services/openai-service) [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-CC0000?style=flat&logo=kalilinux&logoColor=white)](https://en.wikipedia.org/wiki/Computer_security)
 
